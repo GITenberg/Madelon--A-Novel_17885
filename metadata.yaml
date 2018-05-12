@@ -1,0 +1,32 @@
+_repo: Madelon--A-Novel_17885
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freeman, Mary Eleanor Wilkins
+    aliases:
+    - Wilkins, Mary E. (Mary Eleanor)
+    - Wilkins, Mary Ella
+    - Wilkins, Mary Eleanor
+    - Freeman, Mary E. Wilkins (Mary Eleanor Wilkins)
+    birthdate: 1852
+    deathdate: 1930
+    gutenberg_agent_id: '495'
+    url: http://www.gutenberg.org/2009/agents/495
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Eleanor_Wilkins_Freeman
+description: ''
+gutenberg_issued: '2006-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17885'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'New England -- Social life and customs -- Fiction'
+title: 'Madelon: A Novel'
+url: http://www.gutenberg.org/ebooks/17885
